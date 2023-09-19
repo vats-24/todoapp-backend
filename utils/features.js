@@ -15,4 +15,4 @@ export const sendCookie = (user,res,message,statusCode=200) =>{
         success:true,
         message,
     });
-};
+}; 
